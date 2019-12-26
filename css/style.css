@@ -7425,7 +7425,7 @@ h1, h2, h3, h4, h5,
     bottom: 40px;
     right: 1.5em;
     left: 1.5em;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.6);
     padding: 0 20px; }
@@ -7440,6 +7440,7 @@ h1, h2, h3, h4, h5,
         display: inline;
         list-style: none; }
         #colorlib-aside .colorlib-footer ul li a {
+          font-size:2em;
           color: rgba(0, 0, 0, 0.7);
           padding: 4px; }
           #colorlib-aside .colorlib-footer ul li a:hover, #colorlib-aside .colorlib-footer ul li a:active, #colorlib-aside .colorlib-footer ul li a:focus {
