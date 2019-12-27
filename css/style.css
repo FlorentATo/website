@@ -256,9 +256,9 @@ nav ul li a {
 }
 
 .header-content h1 {
-  font-size: 40px;
+  font-size: 2em;
   font-weight: 700;
-  margin-bottom: 10px;
+  margin-bottom: 0.5em;
   text-transform: uppercase;
   color: #fff;
 }
