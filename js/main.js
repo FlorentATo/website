@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Florent Tatard", "sysadmin", "security", "open-source"],
+      strings: ["Florent Tatard", "sysadmin", "security", "open-source", "privacy" ],
       typeSpeed: 100,
       loop: true,
     });
